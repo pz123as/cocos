@@ -263,6 +263,7 @@
                 <file name="src/resource.js"/>
                 <file name="src/CValue.js"/>
                 <file name="src/d3.js"/>
+                <file name="src/DebugLayer.js"/>
                 <file name="src/MyNode.js"/>
                 <file name="src/ForceLayer.js"/>
                 <file name="src/app.js"/>
